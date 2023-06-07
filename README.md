@@ -1,3 +1,13 @@
+<h1><strong> Development Techniques: </strong></h1>
+<h3> Multiple SLices <br/>
+configureStore, createSlice, extraReducers; <br/>
+useDispatch, useSelector; <br/>
+derived State;<br/>
+libraries: reduxjs/toolkit, react-redux, bulma; <br/> </h3>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
