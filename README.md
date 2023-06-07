@@ -1,5 +1,5 @@
 <h1><strong> Development Techniques: </strong></h1>
-<h3> Multiple SLices <br/>
+<h3> Multiple Slices <br/>
 configureStore, createSlice, extraReducers; <br/>
 useDispatch, useSelector; <br/>
 derived State;<br/>
